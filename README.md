@@ -5,7 +5,7 @@ You have to adjust the voltage divider, pay attention to the read speed of the A
 
 
 # Why ACS712
-
+![ACS712 logo](https://github.com/peff74/ACS712_ESP8266/blob/main/ACS712-modul-5A-20A-30A.webp)
  - cheap
  - small
  - available everywhere
