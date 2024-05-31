@@ -42,6 +42,8 @@ ACS712 20A module --> scaling: 100 mV/Amp
 
 ACS712 30A module --> scaling: 66 mV/Amp
 
+    #define Scaling 185.0
+
 # filter out the noise 
 
 Because we record all the values around the measuring point
