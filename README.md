@@ -41,3 +41,15 @@ ACS712 5A module --> scaling: 185 mV/Amp
 ACS712 20A module --> scaling: 100 mV/Amp
 
 ACS712 30A module --> scaling: 66 mV/Amp
+
+# filter out the noise 
+
+Because we record all the values around the measuring point
+in every series of measurements
+we can filter out the values that are most off the mark.
+
+Interference is mainly caused by current-carrying cables next to the line to A0. 
+However, bad power supply units can also play their part 
+
+    #define  Noise_Filter  4
+
