@@ -1,4 +1,4 @@
-# AC Current with ACS712  and ESP8266 D1!
+# AC Current with ACS712  and ESP8266 D1 mini!
 
 There are a few pitfalls, but if you know them, it works well.
 You have to adjust the voltage divider, pay attention to the read speed of the ACD and adjust the noise suppression.
