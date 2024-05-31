@@ -2,7 +2,7 @@
 
 There are a few pitfalls, but if you know them, it works well.
 You have to adjust the voltage divider, pay attention to the read speed of the ACD and adjust the noise suppression.
-
+![ACS712 logo](https://github.com/peff74/ACS712_ESP8266/blob/main/8266_ACS712.jpg)
 
 # Why ACS712
 ![ACS712 logo](https://github.com/peff74/ACS712_ESP8266/blob/main/ACS712-modul-5A-20A-30A.webp)
