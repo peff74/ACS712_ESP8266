@@ -35,6 +35,8 @@ This can be set with the "Delay_Time"
 "do_measurements" should then be reduced to 25.
 Of course, this reduces the accuracy
 
+    #define Delay_Time 2
+
 ## Correct scaling value for the different models
 ACS712 5A module --> scaling: 185 mV/Amp
 
